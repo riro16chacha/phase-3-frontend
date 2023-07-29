@@ -1,0 +1,3 @@
+[submodule "phase-3-sinatra-react-project"]
+	path = phase-3-sinatra-react-project
+	url = git@github.com:riro16chacha/phase-3-sinatra-react-project.git
